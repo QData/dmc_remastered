@@ -1,0 +1,4 @@
+dm_control
+gym
+numpy
+dm_env
