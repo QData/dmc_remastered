@@ -120,6 +120,13 @@ The floor texture images are from http://texturelib.com/. The background images 
 
 ### Citation
 If you use DMCR in your research, please feel free to cite our paper:
-(bibtex will be posted when the paper is released on arXiv)
-
-"Measuring Visual Generalization in Continuous Control from Pixels", Grigsby and Qi, 2020.
+```
+@misc{grigsby2020measuring,
+      title={Measuring Visual Generalization in Continuous Control from Pixels}, 
+      author={Jake Grigsby and Yanjun Qi},
+      year={2020},
+      eprint={2010.06740},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
